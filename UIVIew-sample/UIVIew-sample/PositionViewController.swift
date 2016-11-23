@@ -9,7 +9,7 @@
 import UIKit
 
 class PositionViewController: UIViewController {
-
+//addd
     
     @IBOutlet weak var blueSquare: UIView!
     
