@@ -11,7 +11,7 @@ import UIKit
 class PositionViewController: UIViewController {
 //addd
     //modify by chengfei 
-    //
+    
     //
     
     @IBOutlet weak var blueSquare: UIView!
